@@ -1,2 +1,2 @@
-def maximum(x, y, z):
+def distance(x, y, z):
     return 0
