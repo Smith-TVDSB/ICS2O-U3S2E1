@@ -1,2 +1,2 @@
-def maximum(array):
-    return array[0]
+def maximum(x, y, z):
+    return 0
